@@ -8,14 +8,14 @@ Research Data Manager, Data Science consultant, and psycholinguist at the Leibni
 ### Research and professional interests
 
 - 🗂️🔐 **Research Data Management:** building institutional data infrastructure, GDPR compliant data workflows, and FAIR data principles for the language sciences with an emphasis on Open Science practices
-- 🧮📊 **Bayesian statistics:** mixed effects modeling in R/brms, applied to psycholinguistic and cross linguistic datasets
+- 🧮📊 **Bayesian statistics:** mixed effects modeling in R/brms, applied to datasets spanning psycholinguistics, physiological speech data, and cross-linguistic research (and whatever else ZAS researchers throw at me!)
 - 🧠👁️ **Psycholinguistics:** eye tracking and EEG methods, with a focus on language acquisition and sentence processing
 - 📄🔁 **Reproducible research:** Quarto based workflows for manuscripts, teaching materials, and data dashboards
 - 🐍🤝 **Python for research:** expanding my toolkit and organizing the ZAS Pythonistas working group for researchers learning Python
 
 ### Current projects
 
--  Collaborator on a preregistered, cross linguistic replication of quantifier acquisition using Bayesian mixed models (R/brms)
+-  Collaborator on a preregistered, cross-linguistic replication of quantifier acquisition using Bayesian mixed models (R/brms)
 - Using Python (MNE) to preprocess EEG data exploring the effects of prior world knowledge on language processing
 - Infrastructure development for a SharePoint based research data catalogue at ZAS, facilitating GDPR compliance and Open Science practices
 
