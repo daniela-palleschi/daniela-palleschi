@@ -7,7 +7,7 @@ Research Data Manager, Data Science consultant, and psycholinguist at the Leibni
 
 ### Research and professional interests
 
-- 📈 **R (all day, every day)**: my primary tool for over a decade, dissertation (Rmarkdown) to webbooks (Quarto) to infrastructure scripting (R + PowerShell), I use it for *everything*
+- 📈 **R (all day, every day)**: my primary tool for over a decade, from dissertation (Rmarkdown) to webbooks (Quarto) to infrastructure scripting (R + PowerShell), I use it for *everything*
 - 🗂️🔐 **Research Data Management:** building institutional data infrastructure, GDPR compliant data workflows, and FAIR data principles for the language sciences with an emphasis on Open Science practices
 - 🧮📊 **Bayesian statistics:** mixed effects modeling in R/brms, applied to datasets spanning psycholinguistics, physiological speech data, and cross-linguistic research (and whatever else ZAS researchers throw at me!)
 - 🧠👁️ **Psycholinguistics:** eye tracking and EEG methods, with a focus on language acquisition and sentence processing
