@@ -19,9 +19,19 @@ Research Data Manager, Data Science consultant, and psycholinguist at the Leibni
 - Using Python (MNE) to preprocess EEG data exploring the effects of prior world knowledge on language processing
 - Infrastructure development for a SharePoint based research data catalogue at ZAS, facilitating GDPR compliance and Open Science practices
 
+### ⛰️ Hill I will die on
+
+Use **project relative filepaths**. *In R:* set up an `.Rproj` and use `here::here()` for all file paths, never absolute paths, never `setwd()`. If you don't, Jenny Bryan will [set your computer on fire](https://tidyverse.org/blog/2017/12/workflow-vs-script/). *In Python:* I like `pyprojroot`'s `here()` function, which anchors to any project root file (e.g. `.git`, `setup.py`, or `.here` failing all else), nesting within `os.path.join()` to avoid hardcoding slash separators (native behavior in R's `here::here()`).
+
+Bonus: use `pacman::p_load()` over a wall of individual `library()` calls in R. It installs missing packages automatically and keeps your setup chunk to one line.
+
 ### Toolkit
 
-`R` · `brms` · `tidyverse` · `Quarto` · `Python` · `Git` · `PowerShell`
+**Languages & frameworks:** `R` · `Python` · `brms` · `tidyverse` · `Quarto`
+
+**Tools & platforms:** `Git` · `GitHub` · `PowerShell` · `SharePoint`
+
+**Editors:** `RStudio` · `Positron` · `VS Code`
 
 ### Get in touch
 
